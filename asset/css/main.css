@@ -179,6 +179,11 @@ nav li:hover{
     padding: 10px;
 }
 
+.details a{
+    color: #008080;
+
+}
+
 .details ul{
     padding-left: 40px;
 }
